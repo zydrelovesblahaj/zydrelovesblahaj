@@ -1,9 +1,6 @@
-- 👋 Hi, I’m Zydre
-- 💞️ I’m looking to collaborate on visual novels.
-- 📫 How to reach me: @yesjiyu@gmail.com
-- 😄 Pronouns: he/him
+im zydre. i love sharks. 
 
-- i love python
+python<3
 
 
 <!---
